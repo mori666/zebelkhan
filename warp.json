@@ -42,12 +42,12 @@
     "final": "dns-remote",
     "static_ips": {
       "sky.rethinkdns.com": [
-        "188.114.96.6",
-        "188.114.97.6",
-        "104.17.147.22",
+        "188.114.98.0",
+        "188.114.99.0",
         "104.17.148.22",
-        "188.114.96.3",
-        "188.114.97.3"
+        "104.17.147.22",
+        "188.114.96.6",
+        "188.114.97.6"
       ]
     },
     "independent_cache": true
@@ -91,7 +91,8 @@
         "آلمان🇩🇪WoW § 2",
         "آلمان🇩🇪WoW § 3",
         "آلمان🇩🇪WoW § 4",
-        "آلمان🇩🇪WoW § 5"
+        "آلمان🇩🇪WoW § 5",
+        "آلمان🇩🇪WoW § 6"
       ],
       "default": "auto"
     },
@@ -104,7 +105,8 @@
         "آلمان🇩🇪WoW § 2",
         "آلمان🇩🇪WoW § 3",
         "آلمان🇩🇪WoW § 4",
-        "آلمان🇩🇪WoW § 5"
+        "آلمان🇩🇪WoW § 5",
+        "آلمان🇩🇪WoW § 6"
       ],
       "url": "http://connectivitycheck.gstatic.com/generate_204",
       "interval": "10m0s",
@@ -115,13 +117,13 @@
       "tag": "آلمان🇩🇪WoW § 0",
       "local_address": [
         "172.16.0.2/24",
-        "2606:4700:110:8e6f:4978:f823:cefd:1ae6/128"
+        "2606:4700:110:8d49:29f4:d678:3d7c:af5c/128"
       ],
-      "private_key": "uMN4yc4E4vzkxEw0HZVGtCOU7Ut3fgqpEw+qK5U3e0I=",
+      "private_key": "MIBfL7/LOFxuQCNDqIlIiqXw1XFjbJdJwsfMOlrS0Vo=",
       "server": "188.114.99.245",
-      "server_port": 1018,
+      "server_port": 987,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "KUm5",
+      "reserved": "Zf1m",
       "mtu": 1330,
       "fake_packets": "10-20",
       "fake_packets_size": "20-60",
@@ -132,13 +134,13 @@
       "tag": "آلمان🇩🇪WoW § 1",
       "local_address": [
         "172.16.0.2/24",
-        "2606:4700:110:80b3:fed:b6cd:ec24:9d69/128"
+        "2606:4700:110:8a44:d415:553a:935a:85b0/128"
       ],
-      "private_key": "cBlgzORm0bU42z//gBRZKRD1BvCqfyaDiNliONB1CUI=",
+      "private_key": "MGlWtqvoYoTBukbRhcSg6AedBtO8UXZ/kPUMXOdn0FI=",
       "server": "188.114.96.230",
-      "server_port": 894,
+      "server_port": 4233,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "WK2d",
+      "reserved": "Jj7C",
       "mtu": 1330,
       "fake_packets": "10-20",
       "fake_packets_size": "20-60",
@@ -149,13 +151,13 @@
       "tag": "آلمان🇩🇪WoW § 2",
       "local_address": [
         "172.16.0.2/24",
-        "2606:4700:110:8532:ba8b:96e0:4a5e:eb4e/128"
+        "2606:4700:110:8ced:d127:6020:47a1:f451/128"
       ],
-      "private_key": "cKwt9/G/RsiQ4kJkrG7M5XQgaeho2E5D2a7Fb/Y0cUU=",
+      "private_key": "gJ8lQYLJrxi5STuqA6tQfls4HMwpbgT6pIfFkXfObks=",
       "server": "162.159.195.68",
-      "server_port": 943,
+      "server_port": 908,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "k0pT",
+      "reserved": "8xCI",
       "mtu": 1330,
       "fake_packets": "10-20",
       "fake_packets_size": "20-60",
@@ -166,13 +168,13 @@
       "tag": "آلمان🇩🇪WoW § 3",
       "local_address": [
         "172.16.0.2/24",
-        "2606:4700:110:8e4d:1f3d:42d5:e27b:5821/128"
+        "2606:4700:110:85e5:a300:81fd:da02:5477/128"
       ],
-      "private_key": "UCjJqc0z7XNupPwpwty20nNrCJiFSS2K2peYJyzqWm8=",
+      "private_key": "6EFAcmfse0Pzzhw+r6aQYOVpPUauhf54CRZSFUhWq18=",
       "server": "188.114.98.64",
-      "server_port": 942,
+      "server_port": 4198,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "ElvK",
+      "reserved": "Axjt",
       "mtu": 1330,
       "fake_packets": "10-20",
       "fake_packets_size": "20-60",
@@ -183,13 +185,13 @@
       "tag": "آلمان🇩🇪WoW § 4",
       "local_address": [
         "172.16.0.2/24",
-        "2606:4700:110:8da1:9429:d7fe:ed13:8bc2/128"
+        "2606:4700:110:82f9:d23d:6ba6:12ec:69b1/128"
       ],
-      "private_key": "2O66uZ8/YRXRhV81dWfFxT3XeEjt+asCsvCPoH/h2Ws=",
+      "private_key": "mGM52SQDhGALT+w81Thx8sAhFznsnRMqQ6y1rISn4U4=",
       "server": "162.159.192.159",
-      "server_port": 4500,
+      "server_port": 1074,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "D/zZ",
+      "reserved": "Bq4N",
       "mtu": 1330,
       "fake_packets": "10-20",
       "fake_packets_size": "20-60",
@@ -200,13 +202,30 @@
       "tag": "آلمان🇩🇪WoW § 5",
       "local_address": [
         "172.16.0.2/24",
-        "2606:4700:110:81b2:bad3:b4:98d2:3cf3/128"
+        "2606:4700:110:84c3:a22c:8b12:9b3d:24c3/128"
       ],
-      "private_key": "gEYhJ/lzjWrs+y327CppzLz4shVyHWPbgYRzg/7JyVY=",
+      "private_key": "cLzW+/6HBKyqQFWDZLeuRmJTchAfrgKyW4vcRRQ1JFM=",
       "server": "188.114.99.143",
-      "server_port": 2408,
+      "server_port": 3854,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "HJMK",
+      "reserved": "1yvo",
+      "mtu": 1330,
+      "fake_packets": "10-20",
+      "fake_packets_size": "20-60",
+      "fake_packets_delay": "5-10"
+    },
+    {
+      "type": "wireguard",
+      "tag": "آلمان🇩🇪WoW § 6",
+      "local_address": [
+        "172.16.0.2/24",
+        "2606:4700:110:8ea7:51ca:aea0:c9df:d923/128"
+      ],
+      "private_key": "6PkexfzpyHHzxzCPgAWswCSZ9Zf592LMUciNTiuEpnc=",
+      "server": "188.114.96.26",
+      "server_port": 4177,
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": "M+yh",
       "mtu": 1330,
       "fake_packets": "10-20",
       "fake_packets_size": "20-60",
@@ -291,7 +310,7 @@
     },
     "clash_api": {
       "external_controller": "127.0.0.1:6756",
-      "secret": "5JWS4f49Jqo3gXAO"
+      "secret": "WQ9RYF8pXeuGeE8H"
     }
   }
 }
